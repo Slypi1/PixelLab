@@ -1,4 +1,5 @@
 # PixelLab
 creation, learning, innovation...
 
-![PLlogo](https://user-images.githubusercontent.com/812439/182920420-75a54c7b-20e5-4ad8-bbfa-45511bdb2bca.jpg)
+![PLlogo (1)](https://user-images.githubusercontent.com/812439/182921142-02c3fc18-d9e1-4787-9b75-b7f727441d3c.jpg)
+
